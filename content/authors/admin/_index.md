@@ -34,6 +34,16 @@ social:
     link: https://ideas.repec.org/f/pse405.html
     icon_pack: ai
     icon: ideas-repec
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-8835-1611
+    icon_pack: ai
+    icon: orcid
+  - display:
+      header: false
+    link: https://publons.com/researcher/4268370/pedro-serodio/
+    icon_pack: ai
+    icon: publons
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
