@@ -9,7 +9,7 @@ authors:
 draft: false
 featured: false
 image:
-  filename: asi-aft-logo-web.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-03-23T14:05:03.538Z
