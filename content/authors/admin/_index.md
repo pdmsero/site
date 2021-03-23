@@ -24,31 +24,24 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pedro-ser%C3%B4dio-7aabab58/
-  - display:
-      header: false
+  - icon: academia    
+    icon_pack: ai
     link: https://mdx.academia.edu/PedroSer%C3%B4dio
+  - icon: ideas-repec    
     icon_pack: ai
-    icon: academia
-  - display:
-      header: false
-    link: https://ideas.repec.org/f/pse405.html
+    link: https://ideas.repec.org/f/pse405.html    
+  - icon: orcid    
     icon_pack: ai
-    icon: ideas-repec
-  - display:
-      header: false
-    link: https://orcid.org/0000-0001-8835-1611
+    link: https://orcid.org/0000-0001-8835-1611    
+  - icon: publons    
     icon_pack: ai
-    icon: orcid
-  - display:
-      header: false
     link: https://publons.com/researcher/4268370/pedro-serodio/
+  - icon: researchgate    
     icon_pack: ai
-    icon: publons
-  - display:
-      header: false
     link: https://www.researchgate.net/profile/Pedro-Serodio
-    icon_pack: ai
-    icon: researchgate
+  - icon: substack
+    icon_pack: custom
+    link: https://pedroserodio.substack.com/
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
