@@ -1,5 +1,5 @@
 ---
-title: https://worksinprogress.co/issue/how-i-learned-to-stop-worrying-and-love-the-debt/
+title: How I learned to stop worrying and love the debt
 publication_types:
   - "0"
 authors:
