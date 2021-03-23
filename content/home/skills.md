@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 70%
-  icon: chart-line
+  icon: matlab
   icon_pack: fas
   name: Matlab
 - description: 10%
