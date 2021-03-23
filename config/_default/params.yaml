@@ -28,15 +28,15 @@ address:
   postcode: 'NW4 4BT'
   country: United Kingdom
   country_code: UK
-directions: Enter Williambs Building and take the stairs to Office 202 on Floor 2
+directions: Enter Williams Building and take the stairs to Office 202 on Floor 2
 office_hours:
   - 'Wednesday 15:00 to 17:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+# contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/pdmsero'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
