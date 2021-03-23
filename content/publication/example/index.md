@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "https://static1.squarespace.com/static/56eddde762cd9413e151ac92/t/5e4c2406d37804306a23664c/1582048264192/Abolishing+the+Factory+Tax+-+Sam+Dumitriu+%26+Dr+Pedro+Serodio+-+Final.pdf"
 publication_types:
   - "4"
 authors:
