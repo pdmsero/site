@@ -29,6 +29,11 @@ social:
     link: https://mdx.academia.edu/PedroSer%C3%B4dio
     icon_pack: ai
     icon: academia
+  - display:
+      header: false
+    link: https://ideas.repec.org/f/pse405.html
+    icon_pack: ai
+    icon: ideas-repec
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
@@ -51,4 +56,4 @@ highlight_name: false
 ---
 I am a lecturer in Economics at Middlesex University in London.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Pedro_Serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
