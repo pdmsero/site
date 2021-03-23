@@ -65,7 +65,7 @@ education:
     - course: BSc in Economics
       institution: Universidade de Évora
       year: 2007
-email: ""
+email: pedro.serodio@gmail.com
 superuser: true
 highlight_name: false
 ---
