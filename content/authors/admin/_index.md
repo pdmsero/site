@@ -44,6 +44,11 @@ social:
     link: https://publons.com/researcher/4268370/pedro-serodio/
     icon_pack: ai
     icon: publons
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Pedro-Serodio
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
