@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "4"
 authors:
   - admin
   - Sam Dumitriu
@@ -20,13 +20,14 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Abolish the Factory Tax
+subtitle: How to Boost Investment and Level Up Britain
 doi: ""
 featured: true
 tags: []
 projects:
   - policy
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
