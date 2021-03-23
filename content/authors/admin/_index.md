@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pedro-ser%C3%B4dio-7aabab58/
+  - display:
+      header: false
+    link: https://mdx.academia.edu/PedroSer%C3%B4dio
+    icon_pack: ai
+    icon: academia
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
