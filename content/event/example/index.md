@@ -1,63 +1,58 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+title: Endogenous Distancing
+abstract: "We extend the standard SEIR model to include consumption and labour
+  decisions of households to capture endogenous variations in the transmission
+  rates of a viral infection in the presence of aggregate uncertainty about
+  policy intervention. We explore and contrast the economic and epidemiological
+  effects of various policy interventions: a baseline \\textit{laissez-faire}
+  decentralised equilibrium with no policy intervention, severe restrictions,
+  moderate restrictions, and a conditional lockdown based on the number of
+  hospital admissions. In the baseline version of the model, the endogenous
+  response of economic agents in a perfect foresight equilibrium with no policy
+  uncertainty leads to a reduction of output of nearly 60%. This is associated
+  with a very large decrease in welfare, which is reduced in all the scenarios
+  in which policy can be implemented, even if the government never decides to do
+  so. However, we find that these gains to welfare are small in magnitude
+  compared to the welfare cost of the pandemic, and that the social welfare
+  associated with no intervention increases relative to all of the intervention
+  scenarios as the pandemic progresses. This suggests that while policy measures
+  may be optimal \\textit{ex ante}, in the absence of a plausible vaccine or
+  treatment, support for restrictions may wane considerably over time."
+location: Central Bank of the Dominican Republic
+date: 2021-03-17T15:00:00.000Z
+all_day: false
+event: Central Bank of the Dominican Republic Seminar Series
+slides: endogenous_distancing
+draft: true
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+date_end: 2021-03-17T16:00:00.000Z
+event_url: https://bancentral.gov.do/
+featured: false
+authors:
+  - Saloni Dattani
+  - admin
+  - Rohan Shah
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+links: []
+publishDate: 2021-03-17T15:00:00.000Z
+tags:
+  - papers
+categories:
+  - epimacro
 projects:
-- example
+  - endogenous_distancing
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+url_code: ""
 ---
 
 {{% callout note %}}
