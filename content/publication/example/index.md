@@ -11,9 +11,8 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Adam Smith Institute
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: A report on the impact of introducing full expensing for capital
+  investment in the UK.
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -24,11 +23,13 @@ subtitle: How to Boost Investment and Level Up Britain
 doi: ""
 featured: true
 tags: []
-projects:
+categories:
   - policy
+projects:
+  - reports
 image:
   caption: ""
-  focal_point: ""
+  focal_point: center
   preview_only: false
   filename: featured.png
 date: 2020-02-19T14:00:00.000Z
