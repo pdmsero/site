@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
-  icon: latex
-  icon_pack: custom
-  name: LaTeX
+#- description: 80%
+#  icon: latex
+#  icon_pack: custom
+#  name: LaTeX
 - description: 70%
   icon: matlab
   icon_pack: custom
   name: Matlab
-- description: 50%
-  icon: stata
-  icon_pack: custom
-  name: Stata
+#- description: 50%
+#  icon: stata
+#  icon_pack: custom
+#  name: Stata
 - description: 40%
   icon: r-project
   icon_pack: fab
