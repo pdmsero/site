@@ -22,7 +22,7 @@ feature:
   name: R
 - description: 70%
   icon: matlab
-  icon_pack: fas
+#  icon_pack: fas
   name: Matlab
 - description: 10%
   icon: camera-retro
