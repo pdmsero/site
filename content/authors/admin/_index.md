@@ -23,10 +23,12 @@ social:
     link: https://github.com/pdmsero
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pedro-ser%C3%B4dio-7aabab58/
 organizations:
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
+  - name: Pro Bono Economics
+    url: https://www.probonoeconomics.com/
 education:
   courses:
     - course: PhD in Economics
