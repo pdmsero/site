@@ -44,4 +44,4 @@ highlight_name: false
 ---
 I am a lecturer in Economics at Middlesex University in London.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Pedro_Serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
