@@ -57,5 +57,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-[Abolishing+the+Factory+Tax+-+Sam+Dumitriu+&+Dr+Pedro+Serodio+-+Final.pdf](https://github.com/pdmsero/site/files/6191162/Abolishing%2Bthe%2BFactory%2BTax%2B-%2BSam%2BDumitriu%2B.%2BDr%2BPedro%2BSerodio%2B-%2BFinal.pdf)
