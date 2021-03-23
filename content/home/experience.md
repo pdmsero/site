@@ -39,6 +39,7 @@ experience:
     location: Coventry, West Midlands
     date_start: '2015-09-01'
     date_end: '2018-08-31'
+    description: |2-
         Responsibilities include:
         
         * Teaching
@@ -48,7 +49,7 @@ experience:
     company_url: 'https://www.mdx.ac.uk/'
     location: London
     date_start: '2018-09-01'
-    date_end: ''
+    date_end:
     description: |2-
         Responsibilities include:
         
