@@ -20,6 +20,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Endogenous Distancing
+<<<<<<< HEAD
 subtitle: ""
 doi: ""
 featured: true
@@ -28,6 +29,16 @@ categories:
   - policy
 projects:
   - reports
+=======
+summary: A paper on the economics of Covid-19.
+tags:
+- Epi-Macro
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+>>>>>>> b36c1fa3f5060244d82e81d06a8e55af53d3eb12
 image:
   caption: ""
   focal_point: center
