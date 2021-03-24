@@ -23,28 +23,39 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- date_end: ""
+  date_start: "2011-09-01"
+  description: "Training provided by the The Economics Network for Graduate Teaching Assistants in the Economics Department at the University of Essex"
+  organization: The Economics Network
+  organization_url: https://www.economicsnetwork.ac.uk/
+  title: Graduate Teaching Assistant Training
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- date_end: ""
+  date_start: "2013-04-01"
+  description: "Course on Financial Frictions and Computational DSGE Models, taught by Mike Wickens (Cardiff University, University of York and CEPR) and Paul Levine (University of Surrey), with Cristiano Cantore (University of Surrey) and Joe Pearlman (City University)."
+  organization: Royal Economic Society
+  organization_url: https://www.res.org.uk/
+  title: RES Easter Training School, 2013
+  url: "https://www.res.org.uk/event-listing/easter-training-school.html"
+- date_end: "2014-09-13"
+  date_start: "2014-09-08"
+  description: "The Science and Art of DSGE Modelling: Two Parallel Dynare- and Matlab-Based Course and One-Day Conference, taught by Cristiano Cantore (University of Surrey), Szabolcs Deak (University of Surrey), Filippo Ferroni (Banque de France & University of Surrey), Vasco Gabriel (University of Surrey), Tom Holden (University of Surrey), Paul Levine (University of Surrey), Antonio Mele (University of Surrey), Joseph Pearlman (University of Surrey), Jonathan Swarbrick (University of Surrey), and Bo Yang (University of Surrey)."
+  organization: Centre for International Macroeconomic Studies
+  organization_url: "https://www.surrey.ac.uk/centre-international-macroeconomic-studies/"
+  title: CIMS Summer School, 2014
+  url: "https://www.surrey.ac.uk/centre-international-macroeconomic-studies/summer-schools"
+- date_end: ""
+  date_start: "2019-04-01"
+  description: "Course on Liquidity and Monetary Economics, taught by Randall Wright (University of Wisconsin)."
+  organization: Royal Economic Society
+  organization_url: https://www.res.org.uk/
+  title: RES Easter Training School, 2019
+  url: "https://www.res.org.uk/event-listing/easter-training-school.html"
+- date_end: ""
+  date_start: "2019-06-01"
+  description: "2019 York Annual Symposium and Mini-Courses on Game Theory"
+  organization: University of York
+  organization_url: https://www.york.ac.uk/
+  title: York Annual Symposium and Mini-Courses on Game Theory
+  url: "https://sites.google.com/a/york.ac.uk/gtsymposium/home"
 ---
