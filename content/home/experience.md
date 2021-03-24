@@ -55,4 +55,15 @@ experience:
         
         * Teaching
         * Research
+  - title: Economic Associate
+    company: Pro Bono Economics
+    company_url: 'https://www.probonoeconomics.com/'
+    location: London
+    date_start: '2020-01-20'
+    date_end:
+    description: |2-
+        Responsibilities include:
+        
+        * Leading volunteer projects
+        * Providing analytical support for projects
 ---
