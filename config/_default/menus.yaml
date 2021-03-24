@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '#featured'
     weight: 20   
-  - name: Publications
+  - name: Writing
     url: '#writing'
     weight: 30
   - name: Projects
