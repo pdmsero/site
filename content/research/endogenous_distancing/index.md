@@ -1,8 +1,8 @@
 ---
 title: Endogenous Distancing
-summary: An example of using the in-built project page.
+summary: A paper on the economics of Covid-19.
 tags:
-- Deep Learning
+- Epi-Macro
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
