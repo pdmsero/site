@@ -7,25 +7,28 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
+  - name: Featured
     url: '#featured'
-    weight: 20   
-  - name: Writing
-    url: '#writing'
+    weight: 20
+  - name: Research
+    url: '#research'
     weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: Writing
+    url: '#writing'
+    weight: 50
   - name: Events
     url: '#events'
-    weight: 50
+    weight: 60
   - name: Teaching
     url: '#teaching'
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
  # - name: CV
  #   url: uploads/pedro_serodio.pdf
- #   weight: 70
+ #   weight: 90
 
