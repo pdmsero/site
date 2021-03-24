@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: research
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -28,6 +28,14 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: true
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: covid19
+    tag: Covid-19
+  - name: Other
+    tag: Demo  
+
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -38,5 +46,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](./research/).
 {{% /callout %}}

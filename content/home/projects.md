@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: covid19
+    tag: Covid-19
   - name: Other
     tag: Demo
 
