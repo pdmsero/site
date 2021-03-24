@@ -28,6 +28,14 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: true
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: covid19
+    tag: Covid-19
+  - name: Other
+    tag: Demo  
+
 design:
   # Choose a view for the listings:
   #   1 = List
