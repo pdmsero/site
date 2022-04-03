@@ -62,6 +62,6 @@ email: pedro.serodio@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am a lecturer in Economics at Middlesex University in London.
+I am currently an Economic Adviser in the Office for Life Sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
