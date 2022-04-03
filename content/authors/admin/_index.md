@@ -43,6 +43,8 @@ social:
     icon_pack: custom
     link: https://pedroserodio.substack.com/
 organizations:
+  - name: Office for Life Sciences
+  - url: https://www.gov.uk/government/organisations/office-for-life-sciences
   - name: Middlesex University
     url: https://www.mdx.ac.uk/
   - name: Pro Bono Economics
