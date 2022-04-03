@@ -1,6 +1,6 @@
 ---
 title: Pedro Serôdio
-role: Lecturer in Economics
+role: Economic Adviser
 avatar_filename: avatar.jpg
 bio: My research interests include economic growth, business cycles, and
   monetary policy.
