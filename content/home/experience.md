@@ -49,7 +49,7 @@ experience:
     company_url: 'https://www.mdx.ac.uk/'
     location: London
     date_start: '2018-09-01'
-    date_end:
+    date_end: '2021-05-16'
     description: |2-
         Responsibilities include:
         
@@ -66,4 +66,15 @@ experience:
         
         * Leading volunteer projects
         * Providing analytical support for projects
+  - title: Economic Adviser
+    company: Office for Life Sciences
+    company_url: 'https://www.gov.uk/government/organisations/office-for-life-sciences'
+    location: London
+    date_start: '2021-05-17'
+    date_end:
+    description: |2-
+        Responsibilities include:
+        
+        * Analysis lead for the MDMTF and LSIMF programmes
+        * Economics lead for the Analysis team in the Office for Life Sciences
 ---
