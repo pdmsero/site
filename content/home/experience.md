@@ -29,8 +29,7 @@ experience:
     date_start: '2013-09-01'
     date_end: '2015-08-31'
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include: 
         * Teaching
         * Research
   - title: Teaching Fellow
@@ -40,8 +39,7 @@ experience:
     date_start: '2015-09-01'
     date_end: '2018-08-31'
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:        
         * Teaching
         * Research
   - title: Lecturer
@@ -51,8 +49,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2021-05-16'
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:        
         * Teaching
         * Research
   - title: Economic Associate
@@ -62,8 +59,7 @@ experience:
     date_start: '2020-01-20'
     date_end:
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:        
         * Leading volunteer projects
         * Providing analytical support for projects
   - title: Economic Adviser
@@ -73,8 +69,7 @@ experience:
     date_start: '2021-05-17'
     date_end:
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:        
         * Analysis lead for the MDMTF and LSIMF programmes
         * Economics lead for the Analysis team in the Office for Life Sciences
 ---
