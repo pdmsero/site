@@ -30,7 +30,7 @@ address:
   country_code: UK
 # directions: 
 # office_hours:
-  - 'Wednesday 15:00 to 17:00'
+#  - 'Wednesday 15:00 to 17:00'
 # appointment_url: 'https://calendly.com'
 # contact_links:
 #  - icon: twitter
