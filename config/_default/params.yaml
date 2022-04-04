@@ -20,17 +20,17 @@ twitter: 'twitter.com/pdmsero'
 
 # Contact (edit or remove options as required)
 
-email: pedro.serodio@officeforlifesciences.gov.uk
+email: p.matosserodio@mdx.ac.uk
 # phone: 888 888 88 88
 address:
-  street: 1 Victoria Street
+  street: Middlesex University, The Burroughs
   city: London
-  postcode: 'SW1H 0ET'
+  postcode: 'NW4 4BT'
   country: United Kingdom
   country_code: UK
-directions: 
+directions: Enter Williams Building and take the stairs to Office 202 on Floor 2
 office_hours:
- - 'Wednesday 15:00 to 17:00'
+  - 'Wednesday 15:00 to 17:00'
 # appointment_url: 'https://calendly.com'
 # contact_links:
 #  - icon: twitter
