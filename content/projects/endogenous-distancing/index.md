@@ -25,8 +25,8 @@ abstract: "We extend the standard  SEIR  model to include consumption and labour
   while policy measures may be optimal ex-ante, in the absence of a plausible
   vaccine or treatment, support for restrictions may wane considerably over
   time."
-draft: false
-featured: false
+draft: true
+featured: true
 tags:
   - covid19
 image:
