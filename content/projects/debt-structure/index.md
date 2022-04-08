@@ -3,7 +3,6 @@ title: Endogenous Distancing
 publication_types:
   - "3"
 authors:
-  - Saloni Dattani
   - admin
   - Rohan Shah
 abstract: "We extend the standard  SEIR  model to include consumption and labour
@@ -25,10 +24,11 @@ abstract: "We extend the standard  SEIR  model to include consumption and labour
   while policy measures may be optimal ex-ante, in the absence of a plausible
   vaccine or treatment, support for restrictions may wane considerably over
   time."
-draft: false
+draft: true
 featured: false
 tags:
-  - covid19
+  - banking
+  - finance
 image:
   filename: featured
   focal_point: Smart
