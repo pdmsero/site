@@ -57,7 +57,7 @@ experience:
     company_url: 'https://www.probonoeconomics.com/'
     location: London
     date_start: '2020-01-20'
-    date_end:
+    date_end: '2021-01-20'
     description: |2-
         Responsibilities include:        
         * Leading volunteer projects
@@ -72,4 +72,14 @@ experience:
         Responsibilities include:        
         * Analysis lead for the MDMTF and LSIMF programmes
         * Economics lead for the Analysis team in the Office for Life Sciences
+  - title: Head of Analysis
+    company: Office for Life Sciences
+    company_url: 'https://www.gov.uk/government/organisations/office-for-life-sciences'
+    location: London
+    date_start: '2022-11-01'
+    date_end:
+    description: |2-
+        Responsibilities include:        
+        * Leading a team of 9 analysts
+        * Supporting on policy analysis and overseeing government publications
 ---
