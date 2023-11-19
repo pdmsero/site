@@ -1,6 +1,6 @@
 ---
 title: Pedro Serôdio
-role: Economic Adviser
+role: Head of Analysis
 avatar_filename: avatar.jpg
 bio: My research interests include economic growth, business cycles, and
   monetary policy.
@@ -8,6 +8,7 @@ interests:
   - Macroeconomics
   - Innovation
   - Growth
+  - Policy analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,8 +46,6 @@ social:
 organizations:
   - name: Office for Life Sciences
     url: https://www.gov.uk/government/organisations/office-for-life-sciences
-  - name: Pro Bono Economics
-    url: https://www.probonoeconomics.com/
 education:
   courses:
     - course: PhD in Economics
@@ -62,6 +61,6 @@ email: pedro.serodio@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am currently an Economic Adviser in the Office for Life Sciences.
+I am currently the Head of Analysis for the Office for Life Sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.

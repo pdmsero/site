@@ -67,7 +67,7 @@ experience:
     company_url: 'https://www.gov.uk/government/organisations/office-for-life-sciences'
     location: London
     date_start: '2021-05-17'
-    date_end:
+    date_end: '2022-10-30'
     description: |2-
         Responsibilities include:        
         * Analysis lead for the MDMTF and LSIMF programmes
