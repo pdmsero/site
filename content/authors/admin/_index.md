@@ -1,14 +1,15 @@
 ---
 title: Pedro Serôdio
-role: Head of Analysis
+role: Research
 avatar_filename: avatar.jpg
-bio: My research interests include economic growth, business cycles, and
-  monetary policy.
+bio: My research interests include economic growth, business cycles,
+  economic policy, and artificial intelligence.
 interests:
   - Macroeconomics
   - Innovation
   - Growth
   - Policy analysis
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,8 +45,8 @@ social:
     icon_pack: custom
     link: https://pedroserodio.substack.com/
 organizations:
-  - name: Office for Life Sciences
-    url: https://www.gov.uk/government/organisations/office-for-life-sciences
+  - name: Control AI
+    url: https://controlai.com/
 education:
   courses:
     - course: PhD in Economics
@@ -61,6 +62,6 @@ email: pedro.serodio@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am currently the Head of Analysis for the Office for Life Sciences.
+I am currently a Researcher in AI Policy at Control AI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.

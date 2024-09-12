@@ -82,4 +82,13 @@ experience:
         Responsibilities include:        
         * Leading a team of 9 analysts
         * Supporting on policy analysis and overseeing government publications
+  - title: Senior Policy Adviser
+    company: Control AI
+    company_url: 'https://controlai.com/'
+    location: London
+    date_start: '2024-06-21'
+    date_end:
+    description: |2-
+        Responsibilities include:        
+        * Developing policy on AI regulation
 ---
