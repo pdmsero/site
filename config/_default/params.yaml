@@ -23,20 +23,20 @@ twitter: 'twitter.com/pdmsero'
 email: pedro.serodio@officeforlifesciences.gov.uk
 # phone: 888 888 88 88
 address:
-  street: 1 Victoria Street
+  street: Fora - 201 Borough High Street
   city: London
-  postcode: 'SW1H 0ET'
+  postcode: 'SE1 1JA'
   country: United Kingdom
   country_code: UK
 # directions: Enter Williams Building and take the stairs to Office 202 on Floor 2
 # office_hours:
 #  - 'Wednesday 15:00 to 17:00'
 # appointment_url: 'https://calendly.com'
-# contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/pdmsero'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/pdmsero'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me

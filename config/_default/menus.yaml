@@ -22,7 +22,7 @@ main:
   - name: Events
     url: '#events'
     weight: 60
-  - name: Teaching
+ # - name: Teaching
     url: '#teaching'
     weight: 70
   - name: Contact
