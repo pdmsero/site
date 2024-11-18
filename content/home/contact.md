@@ -17,9 +17,8 @@ content:
   autolink: true
   
   # Add contact details
-  email: your.email@example.com
-  phone: 888 888 88 88
-  
+  email: email@pedroserodio.com
+    
   # Email form provider
   form:
     provider: netlify

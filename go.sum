@@ -22,6 +22,8 @@ github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.0/go.mod h1:R
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.1-0.20231101183733-7b61e2f369e6/go.mod h1:ecSfomc5wqJSsZb+WuOJGMqCDxONsooRuWmIObTOpR0=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.2.0 h1:7mhT9lnbCxbgCbeyLvEAojDXEb3w0kJ05wTgneVXQyk=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.2.0/go.mod h1:ecSfomc5wqJSsZb+WuOJGMqCDxONsooRuWmIObTOpR0=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.0 h1:l7FIPHFJ8KKktS8Nrfk/u47PkDTbg6TNHg4VY3g41Xc=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.0/go.mod h1:EfRfz/zhkliLPRWYdXRatho64juF3EFaJnciCi5YzwA=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20230420205746-951c7b6f709d h1:hbNMIPU22juXZA3EYR6c9rMCBwwXPupV4/6ECi4g3V4=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20230420205746-951c7b6f709d/go.mod h1:aTjV1UoWPt03vYsb6TImLXMlby6p1lXF9aUy+GnAuqw=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0 h1:k7vB8NFZ39dWr8MHemJE+MSClGnFN7OrCBa8so/v+UA=
