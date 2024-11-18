@@ -54,9 +54,9 @@ markup:
     renderer:
       unsafe: true
   highlight:
+    noClasses: true
+    style: monokai
     codeFences: true
-    style: dracula
-    noClasses: false
   tableOfContents:
     startLevel: 2
     endLevel: 3
