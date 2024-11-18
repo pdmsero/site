@@ -57,6 +57,7 @@ markup:
     noClasses: true
     style: monokai
     codeFences: true
+    guessSyntax: false
   tableOfContents:
     startLevel: 2
     endLevel: 3
