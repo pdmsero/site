@@ -55,6 +55,8 @@ markup:
       unsafe: true
   highlight:
     codeFences: true
+    style: dracula
+    noClasses: false
   tableOfContents:
     startLevel: 2
     endLevel: 3
