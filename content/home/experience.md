@@ -77,12 +77,21 @@ experience:
     company_url: 'https://www.gov.uk/government/organisations/office-for-life-sciences'
     location: London
     date_start: '2022-11-01'
-    date_end:
+    date_end: '2024-06-20'
     description: |2-
         Responsibilities include:        
         * Leading a team of 9 analysts
         * Supporting on policy analysis and overseeing government publications
         * Overseeing economic analysis and policy evaluation
+  - title: Senior Policy Adviser
+    company: Control AI
+    company_url: 'https://controlai.com/'
+    location: London
+    date_start: '2024-06-21'
+    date_end: '2024-12-31'
+    description: |2-
+        Responsibilities include:        
+        * Developing policy on AI regulation
   - title: Chief Economist
     company: UK Day One Project
     company_url: ''
@@ -94,13 +103,4 @@ experience:
         * Leading team of analysts developing critical policy products
         * Overseeing economic analysis and policy evaluation
         * Directing value-for-money assessments and official statistics
-  - title: Senior Policy Adviser
-    company: Control AI
-    company_url: 'https://controlai.com/'
-    location: London
-    date_start: '2024-06-21'
-    date_end: '2025-01-01'
-    description: |2-
-        Responsibilities include:        
-        * Developing policy on AI regulation
 ---
