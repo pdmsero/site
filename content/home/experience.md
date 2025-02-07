@@ -82,12 +82,24 @@ experience:
         Responsibilities include:        
         * Leading a team of 9 analysts
         * Supporting on policy analysis and overseeing government publications
+        * Overseeing economic analysis and policy evaluation
+  - title: Chief Economist
+    company: UK Day One Project
+    company_url: ''
+    location: London
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:        
+        * Leading team of analysts developing critical policy products
+        * Overseeing economic analysis and policy evaluation
+        * Directing value-for-money assessments and official statistics
   - title: Senior Policy Adviser
     company: Control AI
     company_url: 'https://controlai.com/'
     location: London
     date_start: '2024-06-21'
-    date_end:
+    date_end: '2025-01-01'
     description: |2-
         Responsibilities include:        
         * Developing policy on AI regulation

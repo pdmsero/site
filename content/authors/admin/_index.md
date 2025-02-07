@@ -1,9 +1,9 @@
 ---
 title: Pedro Serôdio
-role: Research
+role: Chief Economist
 avatar_filename: avatar.jpg
 bio: My research interests include economic growth, business cycles,
-  economic policy, and artificial intelligence.
+  economic policy, and AI policy.
 interests:
   - Macroeconomics
   - Innovation
@@ -45,8 +45,8 @@ social:
     icon_pack: custom
     link: https://pedroserodio.substack.com/
 organizations:
-  - name: Control AI
-    url: https://controlai.com/
+  - name: UK Day One Project
+    url: ""
 education:
   courses:
     - course: PhD in Economics
@@ -62,6 +62,6 @@ email: pedro.serodio@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am currently a Researcher in AI Policy at Control AI.
+I am currently Chief Economist at the UK Day One Project.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
