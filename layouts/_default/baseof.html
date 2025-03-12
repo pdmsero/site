@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  {{ partial "animated-background.html" . }}
+  {{ partial "search" . }}
+  {{ partial "navbar" . }}
+  <div class="page-content">
+    {{ block "main" . }}{{ end }}
+  </div>
+  {{ partial "site_js" . }}
+</body>
+</html> 

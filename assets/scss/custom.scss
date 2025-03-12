@@ -1,0 +1,51 @@
+// Animated background
+.animated-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.wave {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  
+  path {
+    fill: none;
+    stroke: #f0f0f0;
+    stroke-width: 1;
+    animation: wave 20s linear infinite;
+  }
+}
+
+@keyframes wave {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  50% {
+    transform: translateX(-25px) translateY(15px);
+  }
+  100% {
+    transform: translateX(0) translateY(0);
+  }
+}
+
+// Add multiple waves with different animations
+.wave:nth-child(2) {
+  path {
+    animation-delay: -5s;
+    opacity: 0.3;
+  }
+}
+
+.wave:nth-child(3) {
+  path {
+    animation-delay: -10s;
+    opacity: 0.2;
+  }
+} 
