@@ -32,10 +32,10 @@ image:
   caption: ""
   focal_point: center
   preview_only: false
-  filename: featured.avif
+  filename: featured.jpg
 date: 2025-02-06T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2025-02-06T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
