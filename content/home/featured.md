@@ -16,13 +16,14 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: writing
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Filter on criteria
   filters:
     author: ""
     category: ""
     publication_type: ""
     tag: ""
+    featured_only: true
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

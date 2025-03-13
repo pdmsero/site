@@ -150,6 +150,7 @@ cms:
 icon:
   pack:
     ai: true
+    custom: true
 services:
   googleAnalytics:
     ID: '' # Your Google Analytics tracking ID (if you use it)

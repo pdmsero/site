@@ -62,12 +62,4 @@ To make the Nuclear Regulatory Taskforce a success, the Government should ensure
 * Direct access to relevant technical expertise, to sift between viable candidate reactors, promote promising new entrants, and learn from international best practice.
 * Ownership of the regulatory process, from start to finish, to ensure that these improvements result in the delivery of new nuclear capacity.
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
 [Read the full article on UK Day One](https://ukdayone.org/briefings/four-ways-to-make-the-nuclear-regulatory-taskforce-a-success) 

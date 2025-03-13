@@ -41,12 +41,15 @@ social:
   - icon: researchgate    
     icon_pack: ai
     link: https://www.researchgate.net/profile/Pedro-Serodio
+  - icon: matlab
+    icon_pack: custom
+    link: https://www.mathworks.com/matlabcentral/profile/authors/
   - icon: substack
     icon_pack: custom
     link: https://pedroserodio.substack.com/
 organizations:
   - name: UK Day One Project
-    url: ""
+    url: "https://ukdayone.org/"
 education:
   courses:
     - course: PhD in Economics

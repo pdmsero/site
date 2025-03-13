@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Chief Economist
     company: UK Day One Project
-    company_url: ''
+    company_url: 'https://ukdayone.org/'
     location: London
     date_start: '2025-01-01'
     date_end: ''

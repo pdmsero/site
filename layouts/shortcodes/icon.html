@@ -1,0 +1,16 @@
+{{ $pack := .Get "pack" }}
+{{ $name := .Get "name" }}
+{{ if eq $pack "custom" }}
+  {{ $icon := index site.Data.icons.custom.icons $name }}
+  {{ if $icon }}
+    <svg viewBox="0 0 24 24" style="width: 24px; height: 24px;">
+      <path d="{{ $icon.path }}"></path>
+    </svg>
+  {{ else }}
+    <span>Icon not found: {{ $name }}</span>
+  {{ end }}
+{{ else if eq $pack "fab" }}
+  <i class="fab fa-{{ $name }}"></i>
+{{ else }}
+  <i class="{{ $pack }} {{ $name }}"></i>
+{{ end }}
