@@ -1,5 +1,5 @@
 ---
-abstract: "The Government has announced a Nuclear Regulatory Taskforce, directly reporting to the Prime Minister, to 'spearhead' nuclear regulations to encourage home-grown development of nuclear energy. Given the critical importance of developing clean, cheap energy, this announcement is extremely welcome."
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
@@ -9,24 +9,21 @@ authors:
   - Freddie Poser
   - Andrew Bennett
 author_notes:
-  - ""
-  - ""
-  - ""
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 publication: UK Day One
-summary: "A Nuclear Regulatory Taskforce can drive the adoption of new technology for the UK to meet its net zero targets and the increase in demand for electricity. By adopting the right lessons from previous examples, this Taskforce could help the UK deliver a nuclear-powered 2030s."
+summary: A Nuclear Regulatory Taskforce can drive the adoption of new technology for the UK to meet its net zero targets and the increase in demand for electricity.
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: "https://ukdayone.org/briefings/four-ways-to-make-the-nuclear-regulatory-taskforce-a-success"
 url_video: ""
-title: "Four ways to make the Nuclear Regulatory Taskforce a success"
+title: Four ways to make the Nuclear Regulatory Taskforce a success
 subtitle: ""
 doi: ""
 featured: true
-tags: 
-  - nuclear
-  - energy
-  - policy
+tags: []
 categories:
   - policy
 projects:
@@ -35,13 +32,14 @@ image:
   caption: ""
   focal_point: center
   preview_only: false
-  filename: featured.jpg
+  filename: featured.avif
 date: 2025-02-06T00:00:00.000Z
 url_slides: ""
-publishDate: 2025-02-06T00:00:00.000Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+**SUMMARY**
 
 The Government has announced a Nuclear Regulatory Taskforce, directly reporting to the Prime Minister, to "spearhead" nuclear regulations to encourage home-grown development of nuclear energy. 
 
@@ -59,9 +57,17 @@ However, a Taskforce is not an end in itself; the goal is to deliver nuclear pow
 
 To make the Nuclear Regulatory Taskforce a success, the Government should ensure that it has:
 
-1. A clear objective, with measurable, concrete targets and deadlines.
-2. A single-point empowered, accountable leader who is able to act freely without excessive bureaucratic constraints.
-3. Direct access to relevant technical expertise, to sift between viable candidate reactors, promote promising new entrants, and learn from international best practice.
-4. Ownership of the regulatory process, from start to finish, to ensure that these improvements result in the delivery of new nuclear capacity.
+* A clear objective, with measurable, concrete targets and deadlines.
+* A single-point empowered, accountable leader who is able to act freely without excessive bureaucratic constraints.
+* Direct access to relevant technical expertise, to sift between viable candidate reactors, promote promising new entrants, and learn from international best practice.
+* Ownership of the regulatory process, from start to finish, to ensure that these improvements result in the delivery of new nuclear capacity.
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
 [Read the full article on UK Day One](https://ukdayone.org/briefings/four-ways-to-make-the-nuclear-regulatory-taskforce-a-success) 
