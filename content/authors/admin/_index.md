@@ -66,5 +66,3 @@ superuser: true
 highlight_name: false
 ---
 I am currently Chief Economist at the UK Day One Project.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pedro_serodio.pdf" "newtab" >}}resumé{{< /staticref >}}.
